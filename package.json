@@ -27,7 +27,7 @@
   "dependencies": {
     "ast-pipeline": "~0.1.0",
     "async-series": "0.0.1",
-    "bl": "~0.7.0",
+    "bl": "~0.9.5",
     "convert-source-map": "~0.3.3",
     "css": "~1.6.0",
     "duplexer2": "0.0.1",
